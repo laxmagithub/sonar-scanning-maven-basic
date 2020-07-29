@@ -1,2 +1,8 @@
 Hello laxma 
-Good Morning 
+Good Morning
+i = 10
+If (i = 10)
+print (hello good morning)
+else
+print (hello good afternoon)
+if
